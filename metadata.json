@@ -1,0 +1,6 @@
+{
+  "name": "Tactical Perimeter Disruption Shop",
+  "description": "A serious, premium e-commerce platform selling the 5m² Area Disruption and Entanglement Kit, featuring micro-spherical friction units and high-tensile polymeric foam strands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

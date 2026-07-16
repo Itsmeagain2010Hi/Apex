@@ -4,8 +4,9 @@
  */
 
 import { Product, Review } from "./types";
+import productImageAsset from "./assets/images/tactical_kit_vertical_1784175546466.jpg";
 
-export const PRODUCT_IMAGE = "/src/assets/images/tactical_kit_vertical_1784175546466.jpg";
+export const PRODUCT_IMAGE = productImageAsset;
 
 export const MAIN_PRODUCT: Product = {
   id: "apex-5",

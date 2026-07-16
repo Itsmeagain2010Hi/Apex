@@ -5,7 +5,7 @@
 
 import { Product, Review } from "./types";
 
-export const PRODUCT_IMAGE = "/src/assets/images/tactical_disruption_kit_1784171806419.jpg";
+export const PRODUCT_IMAGE = "/src/assets/images/tactical_kit_vertical_1784175546466.jpg";
 
 export const MAIN_PRODUCT: Product = {
   id: "apex-5",

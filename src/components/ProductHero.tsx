@@ -67,7 +67,7 @@ export default function ProductHero({ product, onAddToCart }: ProductHeroProps) 
             <img
               src={PRODUCT_IMAGE}
               alt={product.name}
-              className="h-full w-full object-cover aspect-4/3 md:aspect-16/10 lg:aspect-4/3 transition-transform duration-500 group-hover:scale-102"
+              className="h-full w-full object-cover aspect-[3/4] transition-transform duration-500 group-hover:scale-102"
               referrerPolicy="no-referrer"
             />
  
